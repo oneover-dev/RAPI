@@ -1,4 +1,4 @@
 RAPI/
-├── server.js
+├── RAPI.js
 ├── users.json
 └── config.json (optional)
